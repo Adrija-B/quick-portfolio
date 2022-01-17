@@ -2,9 +2,9 @@ title: Adrija Barvadheesh # your name (or website title) here
 logo: "/images/leeds4.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>1<br>
   Second description 
-  <br><br>
+  <br>2<br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
